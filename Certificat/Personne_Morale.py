@@ -8,3 +8,5 @@ class PersonneMorale(Personne):
 
     def Afficher_RS(self):
         return self.ToComplete
+
+    
