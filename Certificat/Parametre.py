@@ -5,4 +5,3 @@ class Parametre:
         self.lib_par = lib_par
         self.nb_par = nb_par
         self.type_par = type_par
-      
